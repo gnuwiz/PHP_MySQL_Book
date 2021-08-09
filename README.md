@@ -8,7 +8,6 @@ PHP_MySQL_Book
 * Chapter 02 PHP 개발 환경
   + 소스 코드 없음
 * Chapter 03 PHP 동작 원리
-  + 소스 코드 없음
 * Chapter 04 PHP 기초 문법
 * Chapter 05 PHP 내장함수 익히기
 * Chapter 06 세션(Session)과 쿠키(Cookie)
