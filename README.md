@@ -16,9 +16,11 @@ PHP_MySQL_Book
 
 ### Part 02 MySQL 데이터베이스 시작하기
 * Chapter 09 MySQL 개발 환경
+  + 소스 코드 없음
 * Chapter 10 phpMyAdmin 살펴보기
 * Chapter 11 MySQL 문법
 * Chapter 12 MySQL 타입
+  + 소스 코드 없음
 * Chapter 13 MySQL 연산자와 함수
 
 ### Part 03 PHP & MySQL 실전 프로그램 익히기
