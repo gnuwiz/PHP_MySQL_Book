@@ -4,7 +4,6 @@ PHP_MySQL_Book
 =============
 ### Part 01 PHP 웹 프로그래밍 시작하기
 * Chapter 01 웹 프로그래밍의 이해하기
-  + 소스 코드 없음
 * Chapter 02 PHP 개발 환경
   + 소스 코드 없음
 * Chapter 03 PHP 동작 원리
