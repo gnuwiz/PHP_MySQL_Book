@@ -5,7 +5,7 @@ CREATE TABLE member (
 	mb_name varchar(255) NOT NULL DEFAULT '',
 	mb_email varchar(255) NOT NULL DEFAULT '',
 	mb_job varchar(255) NOT NULL DEFAULT '',
-    mb_gender varchar(255) NOT NULL DEFAULT '',
+        mb_gender varchar(255) NOT NULL DEFAULT '',
 	mb_language varchar(255) NOT NULL DEFAULT '',
 	mb_datetime datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
 	PRIMARY KEY (mb_no),
